@@ -21,7 +21,7 @@ Sistema simples de gerenciamento de tarefas desenvolvido em Java.
 ## Como executar
 
 1. Compile o arquivo:
-   javac GerenciadorTarefas.java
+   java GerenciadorTarefas.java
 
 2. Execute o programa:
    java GerenciadorTarefas
